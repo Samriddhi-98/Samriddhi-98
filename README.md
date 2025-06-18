@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Samriddhi-98 Graduated in B.Tech and Post Graduation Program in Data Science and Engineering. 
-- 👀 I’m interested in Data Analytics.  
+- 👀 Data Analytics.  
 - 🌱 I'm learning further within the data domain presently. 
 - 💞️ I’m looking to collaborate on extracting meaningful insights from complex dataset. 
 - 📫 How to reach me: Email - Samriddhivishwakarma@gmail.com | LinkedIn - www.linkedin.com/in/samriddhivishwakarma
